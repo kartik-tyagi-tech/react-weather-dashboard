@@ -268,6 +268,10 @@ export default function WeatherApp() {
         {!data && !loading && !err && (
           <div className="wx-empty muted card">Start by searching for a city above.</div>
         )}
+       <div className="wx-credits">
+         <div><b>Created by:</b> Kartik Tyagi</div>
+         <div><b>Guided by:</b> Dr. R.K Nadesh</div>
+       </div>
       </div>
     </div>
   );
