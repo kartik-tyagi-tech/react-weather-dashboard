@@ -293,7 +293,7 @@ export default function WeatherApp() {
         {/* Footer credits */}
         <div className="wx-credits">
           <div><b>Created by:</b> Kartik Tyagi</div>
-          <div><b>Guided by:</b> Dr. R.K Nadesh</div>
+          
         </div>
       </div>
     </div>
