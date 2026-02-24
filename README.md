@@ -83,12 +83,6 @@ https://open-meteo.com/
 
 ---
 
-## 📸 Screenshots
-
-(Add screenshots here after uploading them to GitHub)
-
----
-
 ## 🎯 Future Improvements
 
 - 5-day forecast feature
