@@ -89,7 +89,6 @@ https://open-meteo.com/
 - Weather-based dynamic background
 - Dark / Light mode toggle
 - Geolocation auto-detect
-- Deploy to Vercel / Netlify
 
 ---
 
